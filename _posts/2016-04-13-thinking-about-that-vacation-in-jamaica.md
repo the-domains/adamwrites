@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Thinking about that vacation in Jamaica...
-datePublished: '2016-04-13T17:49:42.675Z'
-dateModified: '2016-04-13T17:46:43.398Z'
+datePublished: '2016-04-13T18:01:09.661Z'
+dateModified: '2016-04-13T17:50:28.734Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-13-thinking-about-that-vacation-in-jamaica.md
